@@ -35,13 +35,15 @@ Visual Exploratory Data Analysis (EDA):
 
 The distribution of age ranges from mid-30’s to the mid-60’s
 
-
+![Imgur](https://imgur.com/0YM2rpr.png) 
 
 The weight ranges from 120 pounds to about 250 pounds. 
 
-![Imgur](https://imgur.com/7FgvVyw)
+![Imgur](https://imgur.com/7FgvVyw.png)
 
 The highest correlation with cardiovascular disease is shown with systolic blood pressure (the upper number).
+
+![Imgur](https://imgur.com/U64lxwxl.png)
 
 Modeling:
 
@@ -66,7 +68,7 @@ Modeling:
 
 Below is the confusion matrix for Random Forest. The highest percentages show true negatives and true positives.
 
-
+![Imgur](https://imgur.com/l67T2mq.png)
 
 Neural Networks
 This is one of the items I would like to do for future work. Perhaps the model is underfitting or it is the data. When I viewed the loss train (history.history), From viewing this, the numbers are similar, in each category or loss and accuracy. This explains the graph and also may indicate that more than just a few epochs need to be run.  
