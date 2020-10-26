@@ -9,18 +9,19 @@ About 655,000 Americans die from heart disease each year—that’s 1 in every 4
 Heart disease costs the United States about $219 billion each year from 2014 to 2015.3 This includes the cost of healthcare services, medicines, and lost productivity due to death. (https://www.cdc.gov/heartdisease/facts.htm)
 
 This project examines which variables are most likely to cause it. The dataset used here is from Kaggle and contains 70,000 instances and 12 features: (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
-Age | Objective Feature | age | int (days)
-Height | Objective Feature | height | int (cm) |
-Weight | Objective Feature | weight | float (kg) |
-Gender | Objective Feature | gender | categorical code |
-Systolic blood pressure | Examination Feature | ap_hi | int |
-Diastolic blood pressure | Examination Feature | ap_lo | int |
-Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal |
-Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal
-Smoking | Subjective Feature | smoke | binary |
-Alcohol intake | Subjective Feature | alco | binary |
-Physical activity | Subjective Feature | active | binary |
-Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
+
+* Age | Objective Feature | age | int (days)
+* Height | Objective Feature | height | int (cm) |
+* Weight | Objective Feature | weight | float (kg) |
+* Gender | Objective Feature | gender | categorical code |
+* Systolic blood pressure | Examination Feature | ap_hi | int |
+* Diastolic blood pressure | Examination Feature | ap_lo | int |
+* Cholesterol | Examination Feature | cholesterol | 1: normal, 2: above normal, 3: well above normal |
+* Glucose | Examination Feature | gluc | 1: normal, 2: above normal, 3: well above normal
+* Smoking | Subjective Feature | smoke | binary |
+* Alcohol intake | Subjective Feature | alco | binary |
+* Physical activity | Subjective Feature | active | binary |
+* Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
 ## Cleaning and Preprocessing
 
