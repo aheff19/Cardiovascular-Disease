@@ -72,6 +72,4 @@ Below is the confusion matrix for Random Forest. The highest percentages show tr
 ![Imgur](https://imgur.com/l67T2mq.png)
 
 Neural Networks
-This is one of the items I would like to do for future work. Perhaps the model is underfitting or it is the data. When I viewed the loss train (history.history), From viewing this, the numbers are similar, in each category or loss and accuracy. This explains the graph and also may indicate that more than just a few epochs need to be run.  
-
-![Imgur](https://imgur.com/pX7pnXF.png)
+![Imgur](https://imgur.com/cTuTFF0.png)
